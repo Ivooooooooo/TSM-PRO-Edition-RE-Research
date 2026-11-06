@@ -18,8 +18,8 @@ AES key and the test account are in this file.
 | Unpacked module | 164,999,168 bytes, SHA-256 `c0f06405a4416e7be4f1fb76394ed033ac09027a7440e39134f4b5467c8752ae` |
 | Image base | `0x400000` |
 | Manifest | `requestedExecutionLevel level="requireAdministrator"` |
-| Backend | `https://www.tsm-tool.com/` |
-| Telegram | `t.me/pelixx7` |
+| Backend | https://www.tsm-tool.com/ |
+| Telegram | https://t.me/pelixx7 |
 
 It is a 32-bit Qt application, so it runs under WOW64 on a normal x64 Windows box. The
 manifest asks for administrator. For the UI and network tests I set
