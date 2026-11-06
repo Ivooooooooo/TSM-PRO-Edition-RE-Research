@@ -1,0 +1,83 @@
+12:55:56 starting auth relay
+12:55:58 auth relay listening
+12:55:58 proxy saved: {"ProxyEnable": {"value": 0, "type": 4}, "ProxyServer": {"value": "127.0.0.1:8080", "type": 1}, "ProxyOverride": {"value": "<local>", "type": 1}}
+12:55:58 proxy enabled -> 127.0.0.1:8080
+12:55:58 compat layer: RunAsInvoker
+12:55:58 launching app
+12:55:58 app pid 39200
+12:55:58 waiting for unpack to disable Themida exit stub
+12:56:02 Themida exit disabled: True
+12:56:02 waiting for unpack to disable models sync
+12:56:02 models sync disabled: True
+12:56:02 login worker pid 5796
+12:56:07 app exited early code=0xFFFFFFFF
+12:56:07 proxy restored: {"ProxyEnable": {"value": 0, "type": 4}, "ProxyServer": {"value": "127.0.0.1:8080", "type": 1}, "ProxyOverride": {"value": "<local>", "type": 1}}
+12:56:07 app closed code=0xFFFFFFFF; cleaning up
+12:56:07 done
+12:58:00 starting auth relay
+12:58:02 auth relay listening
+12:58:02 proxy saved: {"ProxyEnable": {"value": 0, "type": 4}, "ProxyServer": {"value": "127.0.0.1:8080", "type": 1}, "ProxyOverride": {"value": "<local>", "type": 1}}
+12:58:02 proxy enabled -> 127.0.0.1:8080
+12:58:02 compat layer: RunAsInvoker
+12:58:02 launching app
+12:58:02 app pid 64780
+12:58:02 waiting for unpack to disable Themida exit stub
+12:58:06 Themida exit disabled: True
+12:58:06 Themida message boxes hooked: True
+12:58:06 waiting for unpack to disable models sync
+12:58:06 models sync disabled: True
+12:58:06 login worker pid 69648
+12:59:05 app exited early code=0xDEADC0DE
+12:59:05 proxy restored: {"ProxyEnable": {"value": 0, "type": 4}, "ProxyServer": {"value": "127.0.0.1:8080", "type": 1}, "ProxyOverride": {"value": "<local>", "type": 1}}
+12:59:05 app closed code=0xDEADC0DE; cleaning up
+12:59:05 done
+12:59:58 starting auth relay
+12:59:59 auth relay listening
+12:59:59 proxy saved: {"ProxyEnable": {"value": 0, "type": 4}, "ProxyServer": {"value": "127.0.0.1:8080", "type": 1}, "ProxyOverride": {"value": "<local>", "type": 1}}
+12:59:59 proxy enabled -> 127.0.0.1:8080
+12:59:59 compat layer: RunAsInvoker
+12:59:59 launching app
+12:59:59 app pid 5740
+12:59:59 waiting for unpack to disable Themida exit stub
+13:00:03 Themida exit disabled: True
+13:00:03 Themida message boxes hooked: True
+13:00:03 ExitProcess hook: True
+13:00:03 waiting for unpack to disable models sync
+13:00:03 models sync disabled: True
+13:00:03 login worker pid 61448
+13:01:26 login served; keeping proxy for 6s
+13:01:32 proxy restored: {"ProxyEnable": {"value": 0, "type": 4}, "ProxyServer": {"value": "127.0.0.1:8080", "type": 1}, "ProxyOverride": {"value": "<local>", "type": 1}}
+13:01:55 app closed code=0xFFFFFFFF; cleaning up
+13:01:55 done
+13:02:32 starting auth relay
+13:02:34 auth relay listening
+13:02:34 proxy saved: {"ProxyEnable": {"value": 0, "type": 4}, "ProxyServer": {"value": "127.0.0.1:8080", "type": 1}, "ProxyOverride": {"value": "<local>", "type": 1}}
+13:02:34 proxy enabled -> 127.0.0.1:8080
+13:02:34 compat layer: RunAsInvoker
+13:02:34 launching app
+13:02:34 app pid 43836
+13:02:34 waiting for unpack to disable Themida exit stub
+13:02:37 Themida exit disabled: True
+13:02:37 Themida message boxes hooked: True
+13:02:37 ExitProcess hook: True
+13:02:37 waiting for unpack to disable models sync
+13:02:37 models sync disabled: True
+13:02:37 login worker pid 59412
+13:05:21 starting auth relay
+13:05:23 auth relay listening
+13:05:23 proxy saved: {"ProxyEnable": {"value": 0, "type": 4}, "ProxyServer": {"value": "127.0.0.1:8080", "type": 1}, "ProxyOverride": {"value": "<local>", "type": 1}}
+13:05:23 proxy enabled -> 127.0.0.1:8080
+13:05:23 compat layer: RunAsInvoker
+13:05:23 launching app
+13:05:23 app pid 552
+13:05:23 waiting for unpack to disable Themida exit stub
+13:05:27 Themida exit disabled: True
+13:05:27 Themida message boxes hooked: True
+13:05:27 ExitProcess hook: True
+13:05:27 waiting for unpack to disable models sync
+13:05:27 models sync disabled: True
+13:05:27 login worker pid 65280
+13:05:55 login served; keeping proxy for 6s
+13:06:01 proxy restored: {"ProxyEnable": {"value": 0, "type": 4}, "ProxyServer": {"value": "127.0.0.1:8080", "type": 1}, "ProxyOverride": {"value": "<local>", "type": 1}}
+13:07:48 app closed code=0x00000000; cleaning up
+13:07:48 done

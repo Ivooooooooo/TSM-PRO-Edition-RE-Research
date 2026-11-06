@@ -1,0 +1,6 @@
+﻿worker start
+hwnd=1378406
+edits=2 login=True
+login clicked
+main=True after 8
+worker exit

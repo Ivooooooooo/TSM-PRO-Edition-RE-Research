@@ -1,0 +1,22 @@
+{
+    "Brand": "To Be Filled By O.E.M.",
+    "CpuArch": "x86_64",
+    "CurrentBuild": "43328433",
+    "CurrentVersion": "2026.10.27-1925",
+    "Email": "test@example.com",
+    "GPU": "<>",
+    "Language": "",
+    "Memory": "32GB",
+    "Model": "To Be Filled By O.E.M.",
+    "OS": "Windows 10",
+    "Password": "Test12345!",
+    "Processor": "<>",
+    "ProductName": "Windows 10",
+    "RegisteredOwner": "Windows",
+    "ScreenSize": "<>",
+    "Serial": "<>",
+    "SpaceRoot": "60GB",
+    "TSM_EDITION": "2026.10",
+    "kernelType": "winnt",
+    "machineHost": "DESKTOP"
+}
