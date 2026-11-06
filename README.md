@@ -19,6 +19,7 @@ AES key and the test account are in this file.
 | Image base | `0x400000` |
 | Manifest | `requestedExecutionLevel level="requireAdministrator"` |
 | Backend | `https://www.tsm-tool.com/` |
+| Telegram | `t.me/pelixx7` |
 
 It is a 32-bit Qt application, so it runs under WOW64 on a normal x64 Windows box. The
 manifest asks for administrator. For the UI and network tests I set
